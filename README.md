@@ -2,7 +2,7 @@
 ***I am Gabriel Heinzer and i do programming as a hobby.***
 
 ### 🔭 What I am currently doing
-I’m currently working on a homework software for myself. I plan to publish it to GitHub when I'm finished with it.
+I’m currently working on [officr](https://www.github.com/gheinzer/officr), my todo list and homework booklet.
 
 <!--
 **gheinzer/gheinzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
