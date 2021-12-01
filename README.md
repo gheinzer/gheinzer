@@ -1,8 +1,14 @@
-## Hi there 👋
-***I am Gabriel Heinzer and i do programming as a hobby.***
+# Hi there 👋
+***I am Gabriel Heinzer and i enjoy programming as a hobby.***
 
-### 🔭 What I am currently doing
+## 🔭 What I am currently doing
 I’m currently working on [officr](https://www.github.com/gheinzer/officr), my todo list and homework booklet.
+
+## 👓 Short overview over my repos
+- [officr][1]: This is browser-based todo-list. You can also try it on https://officr.gabrielheinzer.ch
+- [micropython-nextion][2]: A MicroPython library for controlling _Nextion_ displays.
+- [python-tello][3]: Tello is a drone that can be controlled via WiFi. This is a library for that.
+- [py_scripts][4]: Some useful python scripts - feel free to add some.
 
 <!--
 **gheinzer/gheinzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://github.com/gheinzer/officr
+[2]: https://github.com/gheinzer/micropython-nextion
+[3]: https://github.com/gheinzer/python-tello
+[4]: https://github.com/gheinzer/py_scripts
