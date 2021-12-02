@@ -1,9 +1,6 @@
 # Hi there 👋
 ***I am Gabriel Heinzer and i enjoy programming as a hobby.***
 
-## 🔭 What I am currently doing
-I’m currently working on [officr](https://www.github.com/gheinzer/officr), my todo list and homework booklet.
-
 ## 👓 Short overview over my repos
 - [officr][1]: This is browser-based todo-list. You can also try it on https://officr.gabrielheinzer.ch
 - [micropython-nextion][2]: A MicroPython library for controlling _Nextion_ displays.
