@@ -5,7 +5,7 @@
 - [officr][1]: This is a browser-based todo-list. You can also try it on https://officr.gabrielheinzer.ch
 - [micropython-nextion][2]: A MicroPython library for controlling _Nextion_ displays.
 - [python-tello][3]: Tello is a drone that can be controlled via WiFi. This is a library for that.
-- [py_scripts][4]: Some useful python scripts - feel free to add some.
+- [py_scripts][4]: Some more or less useful python scripts - feel free to add some.
 
 <!--
 **gheinzer/gheinzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
