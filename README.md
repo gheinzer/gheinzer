@@ -1,5 +1,4 @@
 # Hi there 👋
-***I am Gabriel Heinzer and i enjoy programming as a hobby.***
 
 ## 👓 Short overview over my repos
 - [officr][1]: This is a browser-based todo-list. You can also try it on https://officr.gabrielheinzer.ch
